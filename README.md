@@ -1,4 +1,4 @@
-NavBar-StatusBarShow-Hide
+NavigationBarAndStatusBarShowOrHide
 =========================
 
 Convenience Header For NavBar&amp;StatusBar Show&amp;Hide
