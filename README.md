@@ -1,7 +1,7 @@
 NavigationBarAndStatusBarShowOrHide
 =========================
 
-Convenience Header For NavBar&amp;StatusBar Show&amp;Hide
+Convenience Header For NavigationBar And StatusBar Show Or Hide.
 
 How To Use
 ==========
