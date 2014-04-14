@@ -6,6 +6,7 @@ Convenience Header For NavBar&amp;StatusBar Show&amp;Hide
 How To Use
 ==========
 1.Add the NavBar&StatusBar.h to your project.
+
 2.Choose The Macro Which You Need And Add In XxxViewController.h & XxxViewController.m
 
 1)StatusBarStateChange_interface
