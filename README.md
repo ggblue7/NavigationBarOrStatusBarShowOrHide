@@ -1,4 +1,4 @@
-NavigationBarAndStatusBarShowOrHide
+NavigationBar StatusBar Show Hide
 =========================
 
 Convenience Header For NavigationBar And StatusBar Show Or Hide.
